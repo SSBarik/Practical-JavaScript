@@ -1,0 +1,12 @@
+.deleteButton {
+    margin: 10px;
+}
+
+.done {
+    color: grey;
+    text-decoration: line-through;
+}
+
+.numberInput {
+    width: 100px;
+}
